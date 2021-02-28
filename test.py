@@ -1,2 +1,4 @@
-msg="hello world"
-print(msg)
+
+num= 2
+print (num)
+
